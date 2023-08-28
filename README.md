@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src=<"https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif">
-<p align="left"> <img src="![image](https://github.com/SohilSayyad/SohilSayyad/assets/96051695/5e1cd0ba-65ff-4f7b-b623-428097b5990f)
-" /> </p>
-
+<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 📫 How to reach me **sohils121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
