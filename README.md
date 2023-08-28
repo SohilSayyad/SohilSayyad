@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohil Sayyad</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif>
+<img align="right" alt="coding" width="400" src=<"https://www.google.com/search?q=animated+data+gif&tbm=isch&ved=2ahUKEwi7-aPpvP-AAxW1pekKHaUHCA0Q2-cCegQIABAA&oq=animated+data+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMggIABAIEAcQHjoECCMQJzoGCAAQCBAeOgcIABAYEIAEUNIZWNocYKEfaABwAHgAgAGRAYgB8ASSAQMwLjWYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=MaPsZPucOrXLpgelj6Bo&bih=715&biw=1519&rlz=1C1CHBF_enIN1050IN1050&hl=en#imgrc=FarcNnCxKGaQSM&imgdii=BRrSv5LC8rG21M">
 
-<p align="left"> <img src="![Uploading image.png…]()
-" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohilsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="sohilsayyad" /> </p>
 
 - 📫 How to reach me **sohils121@gmail.com**
 
