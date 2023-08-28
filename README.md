@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sohil Sayyad</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/02/huhgg.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/SohilSayyad/SohilSayyad/assets/96051695/6a7d3faa-6ad1-4483-b301-a9493ecb0d56)
+">
 - 📫 How to reach me **sohils121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
