@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohil Sayyad</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohilsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="sohilsayyad" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 📫 How to reach me **sohils121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohilsayyad&show_icons=true&locale=en" alt="sohilsayyad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohilsayyad&" alt="sohilsayyad" /></p>
-
