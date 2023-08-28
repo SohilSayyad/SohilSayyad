@@ -1,3 +1,4 @@
+![logo](https://github.com/SohilSayyad/SohilSayyad/blob/main/Sohil%20Sayyad%20(1).png)
 <h1 align="center">Hi 👋, I'm Sohil Sayyad</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
