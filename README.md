@@ -3,7 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohilsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="sohilsayyad" /> </p>
+<p align="left"> <img src="![Uploading image.png…]()
+" /> </p>
 
 - 📫 How to reach me **sohils121@gmail.com**
 
