@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sohil Sayyad</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="<a href="https://ibb.co/kGgZRX6"><img src="https://i.ibb.co/kGgZRX6/1f20f423834bca13c5b4b90558c71977.gif" alt="1f20f423834bca13c5b4b90558c71977" border="0"></a>
+<img align="right" alt="coding" width="400" src="<a href="https://ibb.co/kGgZRX6"><img src="https://i.ibb.co/kGgZRX6/1f20f423834bca13c5b4b90558c71977.gif">
+alt="1f20f423834bca13c5b4b90558c71977" border="0"></a>
 - 📫 How to reach me **sohils121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
