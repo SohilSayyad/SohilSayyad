@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sohil Sayyad</h1>
 <h3 align="center">A passionate Data Analyst/ Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/SohilSayyad/SohilSayyad/assets/96051695/6a7d3faa-6ad1-4483-b301-a9493ecb0d56)
-">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/1f/20/f4/1f20f423834bca13c5b4b90558c71977.gif">
+
 - 📫 How to reach me **sohils121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
